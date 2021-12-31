@@ -33,7 +33,7 @@ Sisteminizde Python'un yüklü olması gerekmektedir. Python'u indirmek icin: [[
 ### Yukleme
 * Depoyu klonlayin
    ```sh
-   git clone https://gitlab.com/Cinoxil/alim-satim-uygulamasi.git
+   git clone https://github.com/Oknn88/MesajlamaUygulamsi-SPN-SHA256-AES.git
    ```
 
 ## Kullanim
